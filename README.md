@@ -1,4 +1,4 @@
-# journeytospace
+# Journey to Space  
 Journey to Space  
 Journey to Space is a simple 1.7.10 modpack centered around Galacticraft and ExtraPlanets.  
 

@@ -1,4 +1,4 @@
-#version 1.1 - Configuration Fix
+# version 1.1 - Configuration Fix  
 Mods Added:  
 	N/A
 
@@ -8,7 +8,7 @@ Mods Removed:
 Configuration Changes:
 	Removed bad configs for DiscordChat  
 
-#version 1.0 - Initial Release  
+# version 1.0 - Initial Release  
 Mods Included:  
 	Actually Additions  
 	Advanced Generators  
