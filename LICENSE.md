@@ -1,11 +1,11 @@
 # LICENSE  
 This pack is released under the terms of the [Open Works License](http://owl.apotheon.org/)  
 
-Open Works License  
+## Open Works License  
 
 This is version 0.9.4 of the Open Works License  
 
-Terms  
+### Terms  
 
 Permission is hereby granted by the holder(s) of copyright or other legal privileges, author(s) or assembler(s), and contributor(s) of this work, to any person who obtains a copy of this work in any form, to reproduce, modify, distribute, publish, sell, sublicense, use, and/or otherwise deal in the licensed material without restriction, provided the following conditions are met:  
 
