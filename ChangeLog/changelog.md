@@ -1,4 +1,14 @@
-# Changelog
+# Changelog  
+## version 1.1.1 - Hotfix Update  
+Mods Added:  
+    	N/A  
+
+Mods Removed:  
+    	N/A  
+
+Mods Updated:  
+    	DiscordChat-1.7.10-2.3.0 (updated to reflect Discord Category changes)  
+
 ## version 1.1 - Configuration Fix  
 Mods Added:  
 	N/A
