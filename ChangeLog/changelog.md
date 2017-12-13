@@ -1,4 +1,20 @@
 # Changelog  
+## Version 1.2
+Mods Added:  
+- DiscordIntegration  
+- Unidict  
+- Wireless Crafting Terminal  
+- AE2 Stuff  
+- ExtraCells2  
+
+Mods Removed:  
+- DiscordChat  
+
+Updated:  
+- Buildcraft (7.1.22 > 7.1.23)
+- ExtraPlanets (1.8.6 > 1.9.0)
+
+
 ## version 1.1.1 - Hotfix Update  
 Mods Added:  
     	N/A  
