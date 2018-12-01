@@ -1,4 +1,15 @@
-# Changelog  
+# Journey to Space Changelog
+## Version 1.3
+Mods Added:  
+- N/A  
+
+Mods Removed:  
+- N/A  
+
+Updated:  
+- DiscordIntegration (1.7.10-3.0.4 > 1.7.10-3.0.5)
+- ExtraPlanets (1.9.0 > 1.7.10-2.0.6)
+
 ## Version 1.2
 Mods Added:  
 - DiscordIntegration  
