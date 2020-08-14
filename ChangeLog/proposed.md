@@ -7,6 +7,15 @@
 - Craft Tweaker  
 - stimmedcow: NoMoreRecipeConflict  
 
+### Mods Removed:  
+- N/A  
+
+### Mods Updated:  
+- N/A  
+
+### Configuration Changes  
+- N/A  
+
 ## Version 1.3
 ### Mods Added:  
 - N/A  
