@@ -6,6 +6,9 @@
 - Crafting Tweaks
 - Craft Tweaker  
 - stimmedcow: NoMoreRecipeConflict  
+- Ore Excavation  
+- Draconic Evolution  
+- Brandon's Core  
 
 ### Mods Removed:  
 - N/A  
