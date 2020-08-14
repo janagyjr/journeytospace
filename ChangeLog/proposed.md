@@ -11,10 +11,10 @@
 - Brandon's Core  
 
 ### Mods Removed:  
-- N/A  
+- EnderCompass  
 
 ### Mods Updated:  
-- ExtraPlanets (2.0.6 > 2.1.3) 
+- ExtraPlanets (2.0.6 > 2.1.3)
 
 ### Configuration Changes  
 - Applied Energistics 2: Changed displayed power units to RF from AE; disabled update checker  

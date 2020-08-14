@@ -11,7 +11,7 @@
 - Brandon's Core  
 
 ### Mods Removed:  
-- N/A  
+- EnderCompass  
 
 ### Mods Updated:  
 - ExtraPlanets (2.0.6 > 2.1.3)
