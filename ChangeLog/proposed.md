@@ -17,7 +17,12 @@
 - N/A  
 
 ### Configuration Changes  
-- N/A  
+- Applied Energistics 2: Changed displayed power units to RF from AE; disabled update checker  
+- ExtraCells2: Disabled ingame wiki mod integration  
+- Aroma1997's Core: Disable version checker  
+- Aroma1997's Dimensional World: Adjusted welcome message; spawnMobs set to false; disabled engine explosions; doubled energy output of combusion engines; disabled the update check  
+- COFH: Disabled non-critical update notifications; enabled holidays  
+- Iguanas Tinker Tweaks: changed exclusionType to blacklist so all tools should be enabled again; added level additions from 10-30 in increments of 2; increased new tool modifiers to 9; added extra modifiers from 8-30 in increments of 2; increased max tool level to 30
 
 ## Version 1.3
 ### Mods Added:  
