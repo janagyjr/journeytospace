@@ -1060,6 +1060,53 @@ ComputerCraft:CC-TurtleAdvanced:0, Advanced Digging Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Mining Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Felling Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Farming Turtle
+DraconicEvolution:xRayBlock, Distortion Flame
+DraconicEvolution:weatherController, Weather Controller
+DraconicEvolution:sunDial, Sun Dial
+DraconicEvolution:draconiumOre, Draconium Ore
+DraconicEvolution:grinder, Mob Grinder
+DraconicEvolution:potentiometer, Potentiometer
+DraconicEvolution:rainSensor, Rain Sensor
+DraconicEvolution:particleGenerator, Particle Generator
+DraconicEvolution:playerDetector, Player Detector
+DraconicEvolution:playerDetectorAdvanced, Advanced Player Detector
+DraconicEvolution:energyInfuser, Energy Infuser
+DraconicEvolution:customSpawner, Stabilized Mob Spawner
+DraconicEvolution:generator, Generator
+DraconicEvolution:energyStorageCore, Energy Core
+DraconicEvolution:draconium:0, Draconium Block
+DraconicEvolution:draconium:1, Resurrection Stone
+DraconicEvolution:draconium:2, Charged Draconium Block
+DraconicEvolution:invisibleMultiblock, Energy Core
+DraconicEvolution:energyPylon, Energy Pylon
+DraconicEvolution:placedItem, tile.draconicevolution:placedItem.name
+DraconicEvolution:safetyFlame, tile.draconicevolution:safetyFlame.name
+DraconicEvolution:cKeyStone:0, Creative Key Stone
+DraconicEvolution:cKeyStone:1, Creative Key Stone
+DraconicEvolution:cKeyStone:2, Creative Key Stone
+DraconicEvolution:cKeyStone:3, Creative Key Stone
+DraconicEvolution:dissEnchanter, Disenchanter
+DraconicEvolution:teleporterStand, Dislocator Pedestal
+DraconicEvolution:draconiumChest, Draconic Chest
+DraconicEvolution:draconicBlock, Awakened Draconium Block
+DraconicEvolution:energyCrystal:0, Energy Relay
+DraconicEvolution:energyCrystal:1, Advanced Energy Relay
+DraconicEvolution:energyCrystal:2, Energy Transceiver
+DraconicEvolution:energyCrystal:3, Advanced Energy Transceiver
+DraconicEvolution:energyCrystal:4, Wireless Energy Transceiver
+DraconicEvolution:energyCrystal:5, Advanced Wireless Transceiver
+DraconicEvolution:infusedObsidian, Draconium Infused Obsidian
+DraconicEvolution:dislocatorReceptacle, Dislocator Receptacle
+DraconicEvolution:portal, Portal
+DraconicEvolution:reactorCore, Draconic Reactor Core
+DraconicEvolution:flowGate:0, Flux Gate
+DraconicEvolution:flowGate:6, Fluid Gate
+DraconicEvolution:reactorStabilizer, Reactor Stabilizer
+DraconicEvolution:reactorEnergyInjector, Reactor Energy Injector
+DraconicEvolution:chaosCrystal, Chaos Crystal
+DraconicEvolution:upgradeModifier, Upgrade Modifier
+DraconicEvolution:longRangeDislocator:1, Admin Dislocator
+DraconicEvolution:chaosShardAtmos, tile.draconicevolution:chaosShardAtmos.name
 enderbatteries:enderBattery, Ender Battery
 MineFactoryReloaded:conveyor:16, Conveyor Belt
 MineFactoryReloaded:conveyor:0, Conveyor Belt (White)
@@ -1578,6 +1625,7 @@ ExtraPlanets:tile.jupiter:8, Block of Palladium
 ExtraPlanets:tile.jupiter:9, Jupiter Stone Bricks
 ExtraPlanets:tile.jupiter:10, Jupiter Red Gem Ore
 ExtraPlanets:tile.jupiter:11, Block of Red Gem
+ExtraPlanets:tile.jupiter:12, Block of Nickel
 ExtraPlanets:jupiterGravel, Jupiter Gravel
 ExtraPlanets:orangeSand, Orange Sand
 ExtraPlanets:orangeSandstone, Orange Sandstone
@@ -1603,7 +1651,7 @@ ExtraPlanets:tile.treasureChestT6, Tier 6 Treasure Chest
 ExtraPlanets:tile.uranus:0, Uranus Surface Rock
 ExtraPlanets:tile.uranus:1, Uranus Sub-Surface Rock
 ExtraPlanets:tile.uranus:2, Uranus Stone
-ExtraPlanets:tile.uranus:3, Crystal Stone
+ExtraPlanets:tile.uranus:3, Uranus Crystal Ore
 ExtraPlanets:tile.uranus:4, Block of Crystal
 ExtraPlanets:tile.uranus:5, Uranus Stone Bricks
 ExtraPlanets:tile.uranus:6, Uranus White Gem Ore
@@ -1618,7 +1666,7 @@ ExtraPlanets:tile.neptune:2, Neptune Stone
 ExtraPlanets:tile.neptune:3, Neptune Iron Ore
 ExtraPlanets:tile.neptune:4, Neptune Tin Ore
 ExtraPlanets:tile.neptune:5, Neptune Copper Ore
-ExtraPlanets:tile.neptune:6, Zinc Ore
+ExtraPlanets:tile.neptune:6, Neptune Zinc Ore
 ExtraPlanets:tile.neptune:7, Block of Zinc
 ExtraPlanets:tile.neptune:8, Neptune Stone Bricks
 ExtraPlanets:tile.neptune:9, Neptune Blue Gem Ore
@@ -1656,8 +1704,8 @@ ExtraPlanets:erisGravel, Eris Gravel
 ExtraPlanets:tile.kepler22b:0, Kepler 22b Dirt
 ExtraPlanets:tile.kepler22b:1, Kepler 22b Stone
 ExtraPlanets:tile.kepler22b:2, Kepler 22b Iron Ore
-ExtraPlanets:tile.kepler22b:3, Kepler 22b Tin Ore
-ExtraPlanets:tile.kepler22b:4, Kepler 22b Copper Ore
+ExtraPlanets:tile.kepler22b:3, Kepler 22b Copper Ore
+ExtraPlanets:tile.kepler22b:4, Kepler 22b Tin Ore
 ExtraPlanets:tile.kepler22b:5, Kepler 22b Dense Coal Ore
 ExtraPlanets:tile.kepler22b:6, Kepler 22b Blue Diamond Ore
 ExtraPlanets:tile.kepler22b:7, Kepler 22b Red Diamond Ore
@@ -1667,11 +1715,13 @@ ExtraPlanets:tile.kepler22b:10, Kepler 22b Green Diamond Ore
 ExtraPlanets:tile.kepler22b:11, Kepler 22b Stone Bricks
 ExtraPlanets:tile.kepler22b:12, Kepler 22b Cobblestone
 ExtraPlanets:tile.kepler22b:13, Kepler 22b Platinum Ore
+ExtraPlanets:tile.kepler22b:14, Block of Platinum
 ExtraPlanets:kepler22bGrass, Kepler 22b Grass
 ExtraPlanets:kepler22bBlueGrass, Kepler 22b Blue Grass
 ExtraPlanets:kepler22bPurpleGrass, Kepler 22b Purple Grass
 ExtraPlanets:kepler22bRedGrass, Kepler 22b Red Grass
 ExtraPlanets:kepler22bYellowGrass, Kepler 22b Yellow Grass
+ExtraPlanets:kepler22bInfectedGrass, Kepler 22b Infected Grass
 ExtraPlanets:tile.kepler22bFlowers:1, Kepler 22b Blue Medium Grass
 ExtraPlanets:tile.kepler22bFlowers:2, Kepler 22b Blue Tall Grass
 ExtraPlanets:tile.kepler22bFlowers:3, Kepler 22b Red Short Grass
@@ -1808,6 +1858,11 @@ ExtraPlanets:tile.decorativeBlocks2:3, Light Blue Block
 ExtraPlanets:tile.decorativeBlocks2:4, Yellow Block
 ExtraPlanets:tile.decorativeBlocks2:5, Green Block
 ExtraPlanets:slimeBlock, Slime Block
+ExtraPlanets:tile.diamond_grit, Diamond Grit
+ExtraPlanets:tile.gold_grit, Gold Grit
+ExtraPlanets:tile.iron_grit, Iron Grit
+ExtraPlanets:tile.coal_grit, Coal Grit
+ExtraPlanets:tile.emerald_grit, Emerald Grit
 ExtraPlanets:tile.kepler22bMapleLogs:0, Kepler 22b Blue Maple Log
 ExtraPlanets:tile.kepler22bMapleLogs:1, Kepler 22b Red Maple Log
 ExtraPlanets:tile.kepler22bMapleLogs:2, Kepler 22b Purple Maple Log
@@ -1893,7 +1948,7 @@ ExtraPlanets:ultimateOxygenCompressor:0, Ultimate Oxygen Compressor
 ExtraPlanets:ultimateOxygenCompressor:4, Ultimate Oxygen Decompressor
 ExtraPlanets:tile.solar:0, Hybrid Solar Panel
 ExtraPlanets:tile.solar:4, Ultimate Solar Panel
-ExtraPlanets:chargingBlock, Vehicle Charger (WIP)
+ExtraPlanets:chargingBlock, Vehicle Charger
 ExtraPlanets:glowstone, Liquid Glowstone
 ExtraPlanets:magma, Liquid Magma
 ExtraPlanets:nitrogen, Liquid Nitrogen
@@ -1904,6 +1959,7 @@ ExtraPlanets:infected_water, Infected Water
 ExtraPlanets:methane, Liquid Methane
 ExtraPlanets:nitrogen_ice, Liquid Nitrogen Ice
 ExtraPlanets:liquid_chocolate, Liquid Chocolate
+ExtraPlanets:liquid_caramel, Liquid Caramel
 Forestry:core:0, Analyzer
 Forestry:core:1, Escritoire
 Forestry:soil:0, Humus
@@ -3373,8 +3429,8 @@ OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
-OpenPeripheral:ticketmachine, Ticket Machine
 OpenPeripheral:peripheralproxy, Peripheral Proxy
+OpenPeripheral:ticketmachine, Ticket Machine
 ProjectE:interdiction_torch, Interdiction Torch
 ProjectE:condenser_mk2, Energy Condenser MK2
 ProjectE:rm_furnace_lit, Red Matter Furnace
@@ -4443,6 +4499,14 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalUranium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalLead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalAdvIron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockITNT
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Distortion Flame
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Charged Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Energy Pylon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Awakened Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Infused Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Admin Dislocator
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Factory Machine Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
@@ -4541,6 +4605,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Palladium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Jupiter Stone Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Jupiter Red Gem Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Red Gem
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Jupiter Gravel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Sand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Sandstone
@@ -4564,7 +4629,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Saturn Dungeon Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Uranus Surface Rock
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Uranus Sub-Surface Rock
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Uranus Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Crystal Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Uranus Crystal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Crystal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Uranus Stone Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Uranus White Gem Ore
@@ -4578,7 +4643,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Stone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Iron Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Copper Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Zinc Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Zinc Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Zinc
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Stone Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Neptune Blue Gem Ore
@@ -4613,8 +4678,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Eris Gravel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Dirt
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Stone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Iron Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Copper Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Dense Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Blue Diamond Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Red Diamond Ore
@@ -4624,6 +4689,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Green Diamond O
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Stone Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Cobblestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Platinum Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Sand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Sandstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Europa Surface Rock
@@ -4741,6 +4807,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Blue Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Diamond Grit
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gold Grit
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Grit
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coal Grit
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Emerald Grit
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Blue Maple Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Red Maple Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Kepler 22b Purple Maple Log
@@ -6188,6 +6259,74 @@ ComputerCraft:pocketComputer:0, Pocket Computer
 ComputerCraft:pocketComputer:0, Wireless Pocket Computer
 ComputerCraft:pocketComputer:1, Advanced Pocket Computer
 ComputerCraft:pocketComputer:1, Advanced Wireless Pocket Computer
+DraconicEvolution:draconicDistructionStaff:0, Draconic Staff of Power
+DraconicEvolution:draconicDistructionStaff:0, Draconic Staff of Power
+DraconicEvolution:draconicPickaxe:0, Draconic Pickaxe
+DraconicEvolution:draconicPickaxe:0, Draconic Pickaxe
+DraconicEvolution:draconicAxe:0, Draconic Axe
+DraconicEvolution:draconicAxe:0, Draconic Axe
+DraconicEvolution:draconicShovel:0, Draconic Shovel
+DraconicEvolution:draconicShovel:0, Draconic Shovel
+DraconicEvolution:draconicHoe, Draconic Hoe
+DraconicEvolution:draconicSword, Draconic Sword
+DraconicEvolution:draconicBow:0, Draconic Bow
+DraconicEvolution:draconicBow:0, Draconic Bow
+DraconicEvolution:draconicHelm, Draconic Helm
+DraconicEvolution:draconicChest, Draconic Chestplate
+DraconicEvolution:draconicLeggs, Draconic Leggings
+DraconicEvolution:draconicBoots, Draconic Boots
+DraconicEvolution:wyvernPickaxe:0, Pickaxe of the Wyvern
+DraconicEvolution:wyvernPickaxe:0, Pickaxe of the Wyvern
+DraconicEvolution:wyvernShovel:0, Shovel of the Wyvern
+DraconicEvolution:wyvernShovel:0, Shovel of the Wyvern
+DraconicEvolution:wyvernSword, Sword of the Wyvern
+DraconicEvolution:wyvernBow:0, Bow of the Wyvern
+DraconicEvolution:wyvernBow:0, Bow of the Wyvern
+DraconicEvolution:wyvernHelm, Wyvern Helm
+DraconicEvolution:wyvernChest, Wyvern Chestplate
+DraconicEvolution:wyvernLeggs, Wyvern Leggings
+DraconicEvolution:wyvernBoots, Wyvern Boots
+DraconicEvolution:draconicCore, Draconic Core
+DraconicEvolution:wyvernCore, Wyvern Core
+DraconicEvolution:awakenedCore, Awakened Core
+DraconicEvolution:chaoticCore, Chaotic Core
+DraconicEvolution:draconiumDust, Draconium Dust
+DraconicEvolution:draconiumIngot, Draconium Ingot
+DraconicEvolution:draconiumBlend, Draconium Blend (Depreciated)
+DraconicEvolution:dragonHeart, Dragon Heart
+DraconicEvolution:teleporterMKI, Charm of Dislocation
+DraconicEvolution:teleporterMKII, Enhanced Charm of Dislocation
+DraconicEvolution:tclogo, TCLogo
+DraconicEvolution:sunFocus, Solar Focus
+DraconicEvolution:mobSoul, Mob Soul
+DraconicEvolution:enderArrow, Ender Arrow
+DraconicEvolution:safetyMatch:0, Box of Safety Matches
+DraconicEvolution:safetyMatch:1000, Safety Match
+DraconicEvolution:key:0, Key
+DraconicEvolution:key:1, Key
+DraconicEvolution:creativeStructureSpawner:0, Spawn Comet
+DraconicEvolution:creativeStructureSpawner:1, Spawn Ender Island
+DraconicEvolution:adminSpawnEgg, item.draconicevolution:adminSpawnEgg.name
+DraconicEvolution:infoTablet, Draconic Evolution Information Tablet
+DraconicEvolution:draconicIngot, Awakened Draconium Ingot
+DraconicEvolution:draconiumEnergyCore:0, Wyvern Energy Core
+DraconicEvolution:draconiumEnergyCore:1, Draconic Energy Core
+DraconicEvolution:draconiumFluxCapacitor, item.draconicevolution:draconiumFluxCapacitor.name
+DraconicEvolution:wrench, Crystal Binder
+DraconicEvolution:chaosShard, Chaos Shard
+DraconicEvolution:reactorCraftingPart:0, Reactor Stabilizer Frame
+DraconicEvolution:reactorCraftingPart:1, Reactor Stabilizer Inner Rotor
+DraconicEvolution:reactorCraftingPart:2, Reactor Stabilizer Outer Rotor
+DraconicEvolution:reactorCraftingPart:3, Reactor Stabilizer Rotor Assembly
+DraconicEvolution:reactorCraftingPart:4, Reactor Stabilizer Focus Ring
+DraconicEvolution:nugget:0, Draconium Nugget
+DraconicEvolution:nugget:1, Awakened Draconium Nugget
+DraconicEvolution:chaosFragment:0, Tiny Chaos Fragment
+DraconicEvolution:chaosFragment:1, Small Chaos Fragment
+DraconicEvolution:chaosFragment:2, Large Chaos Fragment
+DraconicEvolution:magnet:0, Item Dislocator
+DraconicEvolution:magnet:1, Awakened Item Dislocator
+DraconicEvolution:dezilsMarshmallow, Dezil's Marshmallow
 endercompass:ender_compass, Ender Compass
 MineFactoryReloaded:hammer, Precision Sledgehammer
 MineFactoryReloaded:plastic.boots, Plastic Boots
@@ -6825,7 +6964,6 @@ ExtraPlanets:tier4Items:10, Volcanic Shard
 ExtraPlanets:tier4Items:11, Volcanic Ingot
 ExtraPlanets:T4key:0, Tier 4 Dungeon Key
 ExtraPlanets:ingotUranium:0, Uranium Ingot
-ExtraPlanets:bucket_salt, Liquid Crystallized Water
 ExtraPlanets:itemTier5Rocket:0, Tier 5 Rocket
 ExtraPlanets:itemTier5Rocket:1, Tier 5 Rocket
 ExtraPlanets:itemTier5Rocket:2, Tier 5 Rocket
@@ -6844,7 +6982,6 @@ ExtraPlanets:tier5Items:7, Nickel Ingot
 ExtraPlanets:tier5Items:8, Red Gem
 ExtraPlanets:T5key:0, Tier 5 Dungeon Key
 ExtraPlanets:nickelBattery, Nickel Battery
-ExtraPlanets:bucket_magma, Magma Bucket
 ExtraPlanets:itemTier6Rocket:0, Tier 6 Rocket
 ExtraPlanets:itemTier6Rocket:1, Tier 6 Rocket
 ExtraPlanets:itemTier6Rocket:2, Tier 6 Rocket
@@ -6860,7 +6997,6 @@ ExtraPlanets:tier6Items:4, Compressed Magnesium
 ExtraPlanets:tier6Items:5, Magnesium Ingot
 ExtraPlanets:tier6Items:6, Magnesium Shard
 ExtraPlanets:T6key:0, Tier 6 Dungeon Key
-ExtraPlanets:bucket_glowstone, Glowstone Bucket
 ExtraPlanets:itemTier7Rocket:0, Tier 7 Rocket
 ExtraPlanets:itemTier7Rocket:1, Tier 7 Rocket
 ExtraPlanets:itemTier7Rocket:2, Tier 7 Rocket
@@ -6877,7 +7013,6 @@ ExtraPlanets:tier7Items:5, Crystal Ingot
 ExtraPlanets:tier7Items:6, Compressed Reinforced Crystal
 ExtraPlanets:tier7Items:7, White Gem
 ExtraPlanets:T7key:0, Tier 7 Dungeon Key
-ExtraPlanets:bucket_frozen_water, Frozen Water Bucket
 ExtraPlanets:itemTier8Rocket:0, Tier 8 Rocket
 ExtraPlanets:itemTier8Rocket:1, Tier 8 Rocket
 ExtraPlanets:itemTier8Rocket:2, Tier 8 Rocket
@@ -6894,7 +7029,6 @@ ExtraPlanets:tier8Items:5, Zinc Ingot
 ExtraPlanets:tier8Items:6, Blue Gem
 ExtraPlanets:T8key:0, Tier 8 Dungeon Key
 ExtraPlanets:zincBattery, Zinc Battery
-ExtraPlanets:bucket_nitrogen, Nitrogen Bucket
 ExtraPlanets:itemTier9Rocket:0, Tier 9 Rocket
 ExtraPlanets:itemTier9Rocket:1, Tier 9 Rocket
 ExtraPlanets:itemTier9Rocket:2, Tier 9 Rocket
@@ -7001,6 +7135,17 @@ ExtraPlanets:item.tier4_kit:2, Tier 4 Full Kit without Oxygen
 ExtraPlanets:item.tier4_kit:3, Tier 4 Full Kit without Thermal Protection
 ExtraPlanets:item.tier4_kit:4, Tier 4 Oxygen Kit
 ExtraPlanets:item.tier4_kit:5, Tier 4 Protection Kit
+ExtraPlanets:bucket_nitrogen, Nitrogen Bucket
+ExtraPlanets:bucket_frozen_water, Frozen Water Bucket
+ExtraPlanets:bucket_glowstone, Glowstone Bucket
+ExtraPlanets:bucket_magma, Magma Bucket
+ExtraPlanets:bucket_salt, Liquid Crystallized Water
+ExtraPlanets:bucket_nitrogen_ice, Liquid Nitrogen Ice Bucket
+ExtraPlanets:bucket_methane, Liquid Methane Bucket
+ExtraPlanets:bucket_infected_water, Infected Water Bucket
+ExtraPlanets:bucket_liquid_hydrocarbon, Liquid Hydrocarbon Bucket
+ExtraPlanets:bucket_liquid_chocolate, Liquid Chocolate Bucket
+ExtraPlanets:bucket_liquid_caramel, Liquid Caramel Bucket
 Forestry:fertilizerBio, Compost
 Forestry:fertilizerCompound, Fertilizer
 Forestry:apatite, Apatite
@@ -7696,14 +7841,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
 ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
-ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
-ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
 ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
-ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
 ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
+ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
 ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
+ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 malisisdoors:item.door_acacia, Acacia Door
 malisisdoors:item.door_birch, Birch Door
 malisisdoors:item.door_dark_oak, Dark Oak Door
@@ -9231,6 +9376,17 @@ ThermalDynamics:cover:0, ic2.fluidDistilledWater Cover
 ThermalDynamics:cover:0, ic2.fluidSuperheatedSteam Cover
 ThermalDynamics:cover:0, ic2.fluidSteam Cover
 ThermalDynamics:cover:0, ic2.fluidHotWater Cover
+ThermalDynamics:cover:0, Distortion Flame Cover
+ThermalDynamics:cover:0, Draconium Ore Cover
+ThermalDynamics:cover:0, Rain Sensor Cover
+ThermalDynamics:cover:0, Draconium Block Cover
+ThermalDynamics:cover:0, Charged Draconium Block Cover
+ThermalDynamics:cover:0, Energy Pylon Cover
+ThermalDynamics:cover:0, tile.draconicevolution:safetyFlame.name Cover
+ThermalDynamics:cover:0, Awakened Draconium Block Cover
+ThermalDynamics:cover:0, Draconium Infused Obsidian Cover
+ThermalDynamics:cover:0, Admin Dislocator Cover
+ThermalDynamics:cover:0, tile.draconicevolution:chaosShardAtmos.name Cover
 ThermalDynamics:cover:0, Factory Machine Block Cover
 ThermalDynamics:cover:0, Programmable RedNet Controller Housing Cover
 ThermalDynamics:cover:0, Cargo Pickup Rail Cover
@@ -9493,6 +9649,7 @@ ThermalDynamics:cover:0, Block of Palladium Cover
 ThermalDynamics:cover:0, Jupiter Stone Bricks Cover
 ThermalDynamics:cover:0, Jupiter Red Gem Ore Cover
 ThermalDynamics:cover:0, Block of Red Gem Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
 ThermalDynamics:cover:0, Jupiter Gravel Cover
 ThermalDynamics:cover:0, Orange Sand Cover
 ThermalDynamics:cover:0, Orange Sandstone Cover
@@ -9516,7 +9673,7 @@ ThermalDynamics:cover:0, Saturn Dungeon Brick Cover
 ThermalDynamics:cover:0, Uranus Surface Rock Cover
 ThermalDynamics:cover:0, Uranus Sub-Surface Rock Cover
 ThermalDynamics:cover:0, Uranus Stone Cover
-ThermalDynamics:cover:0, Crystal Stone Cover
+ThermalDynamics:cover:0, Uranus Crystal Ore Cover
 ThermalDynamics:cover:0, Block of Crystal Cover
 ThermalDynamics:cover:0, Uranus Stone Bricks Cover
 ThermalDynamics:cover:0, Uranus White Gem Ore Cover
@@ -9530,7 +9687,7 @@ ThermalDynamics:cover:0, Neptune Stone Cover
 ThermalDynamics:cover:0, Neptune Iron Ore Cover
 ThermalDynamics:cover:0, Neptune Tin Ore Cover
 ThermalDynamics:cover:0, Neptune Copper Ore Cover
-ThermalDynamics:cover:0, Zinc Ore Cover
+ThermalDynamics:cover:0, Neptune Zinc Ore Cover
 ThermalDynamics:cover:0, Block of Zinc Cover
 ThermalDynamics:cover:0, Neptune Stone Bricks Cover
 ThermalDynamics:cover:0, Neptune Blue Gem Ore Cover
@@ -9565,8 +9722,8 @@ ThermalDynamics:cover:0, Eris Gravel Cover
 ThermalDynamics:cover:0, Kepler 22b Dirt Cover
 ThermalDynamics:cover:0, Kepler 22b Stone Cover
 ThermalDynamics:cover:0, Kepler 22b Iron Ore Cover
-ThermalDynamics:cover:0, Kepler 22b Tin Ore Cover
 ThermalDynamics:cover:0, Kepler 22b Copper Ore Cover
+ThermalDynamics:cover:0, Kepler 22b Tin Ore Cover
 ThermalDynamics:cover:0, Kepler 22b Dense Coal Ore Cover
 ThermalDynamics:cover:0, Kepler 22b Blue Diamond Ore Cover
 ThermalDynamics:cover:0, Kepler 22b Red Diamond Ore Cover
@@ -9576,11 +9733,13 @@ ThermalDynamics:cover:0, Kepler 22b Green Diamond Ore Cover
 ThermalDynamics:cover:0, Kepler 22b Stone Bricks Cover
 ThermalDynamics:cover:0, Kepler 22b Cobblestone Cover
 ThermalDynamics:cover:0, Kepler 22b Platinum Ore Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
 ThermalDynamics:cover:0, Kepler 22b Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Blue Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Purple Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Red Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Yellow Grass Cover
+ThermalDynamics:cover:0, Kepler 22b Infected Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Blue Medium Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Blue Tall Grass Cover
 ThermalDynamics:cover:0, Kepler 22b Red Short Grass Cover
@@ -9713,6 +9872,11 @@ ThermalDynamics:cover:0, Light Blue Block Cover
 ThermalDynamics:cover:0, Yellow Block Cover
 ThermalDynamics:cover:0, Green Block Cover
 ThermalDynamics:cover:0, Slime Block Cover
+ThermalDynamics:cover:0, Diamond Grit Cover
+ThermalDynamics:cover:0, Gold Grit Cover
+ThermalDynamics:cover:0, Iron Grit Cover
+ThermalDynamics:cover:0, Coal Grit Cover
+ThermalDynamics:cover:0, Emerald Grit Cover
 ThermalDynamics:cover:0, Kepler 22b Blue Maple Log Cover
 ThermalDynamics:cover:0, Kepler 22b Red Maple Log Cover
 ThermalDynamics:cover:0, Kepler 22b Purple Maple Log Cover
@@ -9798,6 +9962,7 @@ ThermalDynamics:cover:0, Infected Water Cover
 ThermalDynamics:cover:0, Liquid Methane Cover
 ThermalDynamics:cover:0, Liquid Nitrogen Ice Cover
 ThermalDynamics:cover:0, Liquid Chocolate Cover
+ThermalDynamics:cover:0, Liquid Caramel Cover
 ThermalDynamics:cover:0, Humus Cover
 ThermalDynamics:cover:0, Bog Earth Cover
 ThermalDynamics:cover:0, Apatite Ore Cover
