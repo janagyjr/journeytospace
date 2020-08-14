@@ -1,5 +1,5 @@
 # Journey to Space Changelog  
-## Version 1.4  
+## Version 1.4: The final Release  
 ### Mods Added:  
 - Mouse Tweaks   
 - Controlling
