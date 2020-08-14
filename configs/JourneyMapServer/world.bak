@@ -1,0 +1,16 @@
+{
+  "WorldID": "a8dacab0-3ca4-4efb-9136-92908624d288",
+  "UseWorldID": false,
+  "SaveInWorldFolder": false,
+  "cave": {
+    "PlayerCaveMapping": true,
+    "OpCaveMapping": true,
+    "WhiteListCaveMapping": ""
+  },
+  "radar": {
+    "PlayerRadar": true,
+    "OpRadar": true,
+    "WhiteListRadar": ""
+  },
+  "ConfigVersion": 1.12
+}
