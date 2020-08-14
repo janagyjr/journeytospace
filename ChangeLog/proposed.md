@@ -14,7 +14,7 @@
 - N/A  
 
 ### Mods Updated:  
-- N/A  
+- ExtraPlanets (2.0.6 > 2.1.3) 
 
 ### Configuration Changes  
 - Applied Energistics 2: Changed displayed power units to RF from AE; disabled update checker  
